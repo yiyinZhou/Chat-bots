@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Bill Gates",
+        "titular": "Greater Seattle Area | Philanthropy",
+        "resumen": "Co-chair of the Bill & Melinda Gates Foundation. Chairman, Microsoft Corporation.",
+        "experiencia": [
+            {"puesto": "Co-chair", "empresa": "Bill & Melinda Gates Foundation", "inicio": 2000, "fin": "Presente"},
+            {"puesto": "Co-founder, Chairman", "empresa": "Microsoft", "inicio": 1975, "fin": "Presente"}
+        ],
+        "formacion": [
+            {"institucion": "Harvard University", "inicio": 1973, "fin": 1975},
+            {"institucion": "Lakeside School, Seattle", "inicio": 1967, "fin": 1973}
+        ],
+        "contacto": {
+            "blog": "thegatesnotes.com",
+            "twitter": "@BillGates"
+        }
+    },
+    {
+        "nombre": "Steve Wozniak",
+        "titular": "Silicon Valley | Hardware & Computing",
+        "resumen": "Co-founder of Apple Computer. Designer of Apple I and Apple II.",
+        "experiencia": [
+            {"puesto": "Co-founder & Chief Engineer", "empresa": "Apple Computer", "inicio": 1976, "fin": 1985},
+            {"puesto": "Chief Scientist", "empresa": "Fusion-io", "inicio": 2009, "fin": 2014}
+        ],
+        "formacion": [
+            {"institucion": "UC Berkeley", "inicio": 1981, "fin": 1986},
+            {"institucion": "De Anza College", "inicio": 1969, "fin": 1970}
+        ],
+        "contacto": {
+            "twitter": "@stevewoz"
+        }
+    },
+    {
+        "nombre": "Linus Torvalds",
+        "titular": "Portland Area | Open Source Software",
+        "resumen": "Creator and principal developer of the Linux kernel and Git.",
+        "experiencia": [
+            {"puesto": "Fellow", "empresa": "Linux Foundation", "inicio": 2007, "fin": "Presente"},
+            {"puesto": "Software Engineer", "empresa": "Transmeta", "inicio": 1997, "fin": "2003"}
+        ],
+        "formacion": [
+            {"institucion": "University of Helsinki", "inicio": 1988, "fin": 1996}
+        ],
+        "contacto": {
+            "blog": "torvalds-blog.blogspot.com"
+        }
+    }
+]
